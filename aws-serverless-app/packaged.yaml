@@ -10,7 +10,7 @@ Resources:
     Properties:
       Handler: lambda_function.lambda_handler
       Runtime: python2.7
-      CodeUri: s3://soracom-apps/74f13e9e385c7193fc7c9a4af91027b6
+      CodeUri: s3://soracom-apps/8b7cada724603ff45150133c7d10bb8d
       MemorySize: 128
       Timeout: 3
       Environment:
